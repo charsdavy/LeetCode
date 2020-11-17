@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
+let solution: Solution = Solution()
+let result:NSArray = solution.twoSum(nums: [2, 7, 11, 15], target: 10)
+print(result)
