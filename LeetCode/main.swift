@@ -8,5 +8,5 @@
 import Foundation
 
 let solution: Solution = Solution()
-let result:NSArray = solution.twoSum(nums: [2, 7, 11, 15], target: 10)
+let result:[Int] = solution.twoSum([2, 7, 11, 15], 9)
 print(result)

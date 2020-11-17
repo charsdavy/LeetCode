@@ -21,16 +21,16 @@ class Solution: NSObject {
      *
      * Note: The returned array must be malloced, assume caller calls free().
      */
-    public func twoSum(nums: NSArray, target: Int) -> NSArray {
-        let dic: NSMutableDictionary = NSMutableDictionary()
+    func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
+        var dic: Dictionary<Int, Int> = Dictionary()
         for i in 0 ..< nums.count {
-            let value: Int = nums.object(at: i) as! Int
+            let value: Int = nums[i]
             let complement: Int = target - value
             
-            if let index: NSNumber = dic.object(forKey: String.init(format: "%d", complement)) as? NSNumber {
+            if let index: Int = dic[complement] {
                 return [index, i]
             }
-            dic.setValue(NSNumber.init(value: i), forKey: String.init(format: "%d", value))
+            dic[value] = i
         }
         return []
     }
