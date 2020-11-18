@@ -67,7 +67,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-15 | [3 Sum](https://leetcode.com/problems/3sum/)         | [C++](./C++/3sum.cpp) [Python](./Python/3sum.py)       | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers
+15 | [3 Sum](https://leetcode.com/problems/3sum/)         | [C++](./C++/15.threeSum.cpp)       | _O(n^2)_        | _O(1)_          | Medium         || Two Pointers, Done
 16 | [3 Sum Closest](https://leetcode.com/problems/3sum-closest/) | [C++](./C++/3sum-closest.cpp) [Python](./Python/3sum-closest.py) | _O(n^2)_       | _O(1)_          | Medium         || Two Pointers
 18| [4 Sum](https://leetcode.com/problems/4sum/)         | [C++](./C++/4sum.cpp) [Python](./Python/4sum.py)        | _O(n^3)_    | _O(1)_    | Medium         || Two Pointers
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](./C++/remove-duplicates-from-sorted-array.cpp) [Python](./Python/remove-duplicates-from-sorted-array.py) | _O(n)_       | _O(1)_         | Easy           || Two Pointers
