@@ -312,7 +312,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 ## Math
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./C++/reverse-integer.cpp) [Python](./Python/reverse-integer.py) | _O(1)_ | _O(1)_         | Easy           ||
+7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./C++/7.reverseInteger.cpp)  | _O(1)_ | _O(1)_         | Easy           || Done
 9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [C++](./C++/palindrome-number.cpp) [Python](./Python/palindrome-number.py) | _O(1)_ | _O(1)_        | Easy           ||
 12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [C++](./C++/integer-to-roman.cpp) [Python](./Python/integer-to-roman.py) | _O(n)_ | _O(1)_          | Medium         ||
 13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [C++](./C++/roman-to-integer.cpp) [Python](./Python/roman-to-integer.py) | _O(n)_ | _O(1)_          | Easy           ||
