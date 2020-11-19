@@ -17,6 +17,8 @@ public:
 };
 
 /**
+ * https://leetcode.com/problems/longest-palindromic-substring/
+ * 
  5. Longest Palindromic Substring
  动态规划法
  
@@ -71,6 +73,8 @@ string Solution::longestPalindrome(string s)
 }
 
 /**
+ * https://leetcode.com/problems/longest-palindromic-substring/
+ * 
  5. Longest Palindromic Substring
  中心扩散法
  

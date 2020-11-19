@@ -22,6 +22,8 @@ public:
 using namespace std;
 
 /**
+ https://leetcode.com/problems/reverse-linked-list/
+ 
  206. Reverse Linked List
  迭代
  Reverse a singly linked list.
@@ -48,6 +50,8 @@ ListNode* Solution::reverseList(ListNode* head) {
 }
 
 /**
+ https://leetcode.com/problems/reverse-linked-list/
+ 
  206. Reverse Linked List
  递归
  */
@@ -62,6 +66,8 @@ ListNode* Solution::reverseList(ListNode* head) {
 }
 
 /**
+ https://leetcode.com/problems/reverse-linked-list/
+ 
  206. Reverse Linked List
  双指针
  */

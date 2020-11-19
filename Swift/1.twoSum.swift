@@ -9,6 +9,8 @@ import Foundation
 
 class Solution: NSObject {
     /**
+     *https://leetcode.com/problems/two-sum/
+     *
      * 1. Two Sum
        两数之和
      *
