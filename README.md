@@ -354,6 +354,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 651 | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/) | [C++](./C++/4-keys-keyboard.cpp) [Python](./Python/4-keys-keyboard.py) | _O(1)_ | _O(1)_ | Medium |📖| Math, DP |
 660 | [Remove 9](https://leetcode.com/problems/remove-9/) | [C++](./C++/remove-9.cpp) [Python](./Python/remove-9.py) | _O(logn)_ | _O(1)_ | Hard |📖||
 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/) | [C++](./C++/bulb-switcher-ii.cpp) [Python](./Python/bulb-switcher-ii.py) | _O(1)_ | _O(1)_ | Medium |||
+4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./C++/4.findMedianSortedArrays.cpp)  | _O(log min(m,n))_ | _O(1)_         | Hard           || Done
 
 ## Sort
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
