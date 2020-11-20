@@ -314,6 +314,7 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 ## Math
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./C++/4.findMedianSortedArrays.cpp)  | _O(log min(m,n))_ | _O(1)_         | Hard           || 
 7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [C++](./C++/7.reverseInteger.cpp)  | _O(1)_ | _O(1)_         | Easy           || 
 9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/) |  | _O(1)_ | _O(1)_        | Easy           ||
 12| [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) |  | _O(n)_ | _O(1)_          | Medium         ||
@@ -356,7 +357,6 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 651 | [4 Keys Keyboard](https://leetcode.com/problems/4-keys-keyboard/) |  | _O(1)_ | _O(1)_ | Medium |📖| Math, DP |
 660 | [Remove 9](https://leetcode.com/problems/remove-9/) |  | _O(logn)_ | _O(1)_ | Hard |📖||
 672 | [Bulb Switcher II](https://leetcode.com/problems/bulb-switcher-ii/) |  | _O(1)_ | _O(1)_ | Medium |||
-4| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [C++](./C++/4.findMedianSortedArrays.cpp)  | _O(log min(m,n))_ | _O(1)_         | Hard           || 
 
 ## Sort
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
