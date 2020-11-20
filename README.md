@@ -105,62 +105,62 @@ I'll keep updating for full summary and better solutions. Stay tuned for updates
 296| [Best Meeting Point](https://leetcode.com/problems/best-meeting-point/) |   | _O(m * n)_ |  _O(m + n)_ | Hard         |📖||
 311| [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) |   | _O(m * n * l)_ |  _O(m * l)_ | Medium         |📖||
 334| [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) |   | _O(n)_ |  _O(1)_ | Medium         |||
-370| [Range Addition](https://leetcode.com/problems/range-addition/) | [C++](./C++/range-addition.cpp) [Python](./Python/range-addition.py)  | _O(k + n)_ |  _O(1)_ | Medium         |📖||
-384| [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [C++](./C++/shuffle-an-array.cpp) [Python](./Python/shuffle-an-array.py)  | _O(n)_ |  _O(n)_ | Medium         | EPI ||
-396| [Rotate Function](https://leetcode.com/problems/rotate-function/) | [C++](./C++/rotate-function.cpp) [Python](./Python/rotate-function.py)  | _O(n)_ |  _O(1)_ | Easy         |||
-412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [C++](./C++/fizz-buzz.cpp) [Python](./Python/fizz-buzz.py)  | _O(n)_ |  _O(1)_ | Easy         |||
-414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [C++](./C++/third-maximum-number.cpp) [Python](./Python/third-maximum-number.py)  | _O(n)_ |  _O(1)_ | Easy         |||
-419| [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) | [C++](./C++/battleships-in-a-board.cpp) [Python](./Python/battleships-in-a-board.py)  | _O(m * n)_ |  _O(1)_ | Medium         |||
-422| [Valid Word Square](https://leetcode.com/problems/valid-word-square/) | [C++](./C++/valid-word-square.cpp) [Python](./Python/valid-word-square.py)  | _O(m * n)_ |  _O(1)_ | Easy         |📖||
-442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [C++](./C++/find-all-duplicates-in-an-array.cpp) [Python](./Python/find-all-duplicates-in-an-array.py)  | _O(n)_ |  _O(1)_ | Medium         |||
-448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [C++](./C++/find-all-numbers-disappeared-in-an-array.cpp) [Python](./Python/find-all-numbers-disappeared-in-an-array.py)  | _O(n)_ |  _O(1)_ | Easy         |||
-643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [C++](./C++/maximum-average-subarray-i.cpp) [Python](./Python/maximum-average-subarray-i.py) | _O(n)_ | _O(1)_ | Easy || Math
-644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) | [C++](./C++/maximum-average-subarray-ii.cpp) [Python](./Python/maximum-average-subarray-ii.py) | _O(n)_ | _O(n)_ | Hard | 📖 | Math
-661| [Image Smoother](https://leetcode.com/problems/image-smoother/) | [C++](./C++/image-smoother.cpp) [Python](./Python/image-smoother.py)  | _O(m * n)_ |  _O(1)_ | Easy         |||
-665| [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [C++](./C++/non-decreasing-array.cpp) [Python](./Python/non-decreasing-array.py)  | _O(n)_ |  _O(1)_ | Easy         |||
-667| [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) | [C++](./C++/beautiful-arrangement-ii.cpp) [Python](./Python/beautiful-arrangement-ii.py)  | _O(n)_ |  _O(1)_ | Medium         |||
-670| [Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [C++](./C++/maximum-swap.cpp) [Python](./Python/maximum-swap.py)  | _O(logn)_ |  _O(logn)_ | Medium         |||
-674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | [C++](./C++/longest-continuous-increasing-subsequence.cpp) [Python](./Python/longest-continuous-increasing-subsequence.py) | _O(n)_ | _O(1)_ | Easy ||
-683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) | [C++](./C++/k-empty-slots.cpp) [Python](./Python/k-empty-slots.py) | _O(n)_ | _O(n)_ | Hard ||
-697| [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) | [C++](./C++/degree-of-an-array.cpp) [Python](./Python/degree-of-an-array.py) | _O(n)_ | _O(n)_ | Easy ||
-713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [C++](./C++/subarray-product-less-than-k.cpp) [Python](./Python/subarray-product-less-than-k.py) | _O(n)_ | _O(1)_ | Medium ||
-717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | [C++](./C++/1-bit-and-2-bit-characters.cpp) [Python](./Python/1-bit-and-2-bit-characters.py) | _O(n)_ | _O(1)_ | Easy || Greedy
-723 | [Candy Crush](https://leetcode.com/problems/candy-crush/) | [C++](./C++/candy-crush.cpp) [Python](./Python/candy-crush.py) | _O((R * C)^2)_ | _O(1)_ | Medium ||
-724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [C++](./C++/find-pivot-index.cpp) [Python](./Python/find-pivot-index.py) | _O(n)_ | _O(1)_ | Easy ||
+370| [Range Addition](https://leetcode.com/problems/range-addition/) |   | _O(k + n)_ |  _O(1)_ | Medium         |📖||
+384| [Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) |   | _O(n)_ |  _O(n)_ | Medium         | EPI ||
+396| [Rotate Function](https://leetcode.com/problems/rotate-function/) |   | _O(n)_ |  _O(1)_ | Easy         |||
+412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) |  | _O(n)_ |  _O(1)_ | Easy         |||
+414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) |   | _O(n)_ |  _O(1)_ | Easy         |||
+419| [Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/) |  | _O(m * n)_ |  _O(1)_ | Medium         |||
+422| [Valid Word Square](https://leetcode.com/problems/valid-word-square/) |   | _O(m * n)_ |  _O(1)_ | Easy         |📖||
+442| [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |   | _O(n)_ |  _O(1)_ | Medium         |||
+448| [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |   | _O(n)_ |  _O(1)_ | Easy         |||
+643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) |  | _O(n)_ | _O(1)_ | Easy || Math
+644 | [Maximum Average Subarray II](https://leetcode.com/problems/maximum-average-subarray-ii/) |  | _O(n)_ | _O(n)_ | Hard | 📖 | Math
+661| [Image Smoother](https://leetcode.com/problems/image-smoother/) |   | _O(m * n)_ |  _O(1)_ | Easy         |||
+665| [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) |   | _O(n)_ |  _O(1)_ | Easy         |||
+667| [Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) |   | _O(n)_ |  _O(1)_ | Medium         |||
+670| [Maximum Swap](https://leetcode.com/problems/maximum-swap/) |   | _O(logn)_ |  _O(logn)_ | Medium         |||
+674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) |  | _O(n)_ | _O(1)_ | Easy ||
+683 | [K Empty Slots](https://leetcode.com/problems/k-empty-slots/) |  | _O(n)_ | _O(n)_ | Hard ||
+697| [Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) |  | _O(n)_ | _O(n)_ | Easy ||
+713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) |  | _O(n)_ | _O(1)_ | Medium ||
+717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) |  | _O(n)_ | _O(1)_ | Easy || Greedy
+723 | [Candy Crush](https://leetcode.com/problems/candy-crush/) |  | _O((R * C)^2)_ | _O(1)_ | Medium ||
+724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |  | _O(n)_ | _O(1)_ | Easy ||
 
 
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 5| [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [C++](./C++/5.longestPalindrome.cpp)  | _O(n)_ | _O(n)_ |  Medium || `Manacher's Algorithm`, Done
-6| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [C++](./C++/zigzag-conversion.cpp) [Python](./Python/zigzag-conversion.py) | _O(n)_ | _O(1)_        | Easy           ||
-8| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [C++](./C++/string-to-integer-atoi.cpp) [Python](./Python/string-to-integer-atoi.py) | _O(n)_ | _O(1)_ | Easy      ||
-14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [C++](./C++/longest-common-prefix.cpp) [Python](./Python/longest-common-prefix.py) | _O(n * k)_   | _O(1)_  | Easy           ||
-28| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [C++](./C++/implement-strstr.cpp) [Python](./Python/implement-strstr.py) | _O(n + k)_   | _O(k)_  | Easy           || `KMP Algorithm`
-38| [Count and Say](https://leetcode.com/problems/count-and-say/) | [C++](./C++/count-and-say.cpp) [Python](./Python/count-and-say.py)| _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
-43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [C++](./C++/multiply-strings.cpp) [Python](./Python/multiply-strings.py) | _O(m * n)_ | _O(m + n)_  | Medium         ||
-58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [C++](./C++/length-of-last-word.cpp) [Python](./Python/length-of-last-word.py) | _O(n)_   | _O(1)_  | Easy           ||
-67| [Add Binary](https://leetcode.com/problems/add-binary/)    | [C++](./C++/add-binary.cpp) [Python](./Python/add-binary.py) | _O(n)_          | _O(1)_          | Easy           ||
-68| [Text Justification](https://leetcode.com/problems/text-justification/) | [C++](./C++/text-justification.cpp) [Python](./Python/text-justification.py) | _O(n)_ | _O(1)_      | Hard           ||
-125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [C++](./C++/valid-palindrome.cpp) [Python](./Python/valid-palindrome.py) | _O(n)_  | _O(1)_         | Easy           ||
-151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [C++](./C++/reverse-words-in-a-string.cpp)  [Python](./Python/reverse-words-in-a-string.py) | _O(n)_ | _O(1)_ | Medium         ||
-161| [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [C++](./C++/one-edit-distance.cpp) [Python](./Python/one-edit-distance.py) | _O(m + n)_ | _O(1)_    | Medium         |📖 |
-165| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [C++](./C++/compare-version-numbers.cpp) [Python](./Python/compare-version-numbers.py) | _O(n)_ | _O(1)_ | Easy     ||
-186| [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) |[C++](./C++/reverse-words-in-a-string-ii.cpp)  [Python](./Python/reverse-words-in-a-string-ii.py) | _O(n)_ | _O(1)_ | Medium         | 📖 |
-214| [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [C++](./C++/shortest-palindrome.cpp) [Python](./Python/shortest-palindrome.py) | _O(n)_ | _O(n)_ |  Hard || `KMP Algorithm` `Manacher's Algorithm`
-242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [C++](./C++/valid-anagram.cpp) [Python](./Python/valid-anagram.py) | _O(n)_       | _O(1)_         | Easy         | LintCode |
-271| [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | [C++](./C++/encode-and-decode-strings.cpp) [Python](./Python/encode-and-decode-strings.py) | _O(n)_ | _O(1)_ | Medium         | 📖 |
-273| [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | [C++](./C++/integer-to-english-words.cpp)  [Python](./Python/integer-to-english-words.py) | _O(logn)_ | _O(1)_ | Hard         | |
-306| [Addictive Number](https://leetcode.com/problems/additive-number/) | [C++](./C++/additive-number.cpp)  [Python](./Python/additive-number.py) | _O(n^3)_ | _O(n)_ | Medium         | |
-383| [Ransom Note](https://leetcode.com/problems/ransom-note/) | [C++](./C++/ransom-note.cpp)  [Python](./Python/ransom-note.py) | _O(n)_ | _O(1)_ | Easy         | EPI |
-405| [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [C++](./C++/convert-a-number-to-hexadecimal.cpp)  [Python](./Python/convert-a-number-to-hexadecimal.py) | _O(n)_ | _O(1)_ | Easy         | |
-408| [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) | [C++](./C++/valid-word-abbreviation.cpp)  [Python](./Python/valid-word-abbreviation.py) | _O(n)_ | _O(1)_ | Easy         | 📖 |
-415| [Add Strings](https://leetcode.com/problems/add-strings/) | [C++](./C++/add-strings.cpp)  [Python](./Python/add-strings.py) | _O(n)_ | _O(1)_ | Easy         | |
-420| [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) | [C++](./C++/strong-password-checker.cpp)  [Python](./Python/strong-password-checker.py) | _O(n)_ | _O(1)_ | Hard         | |
-434| [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [C++](./C++/number-of-segments-in-a-string.cpp)  [Python](./Python/number-of-segments-in-a-string.py) | _O(n)_ | _O(1)_ | Easy         | |
-443| [String Compression](https://leetcode.com/problems/string-compression/) | [C++](./C++/string-compression.cpp)  [Python](./Python/string-compression.py) | _O(n)_ | _O(1)_ | Easy         | |
-459| [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [C++](./C++/repeated-substring-pattern.cpp)  [Python](./Python/repeated-substring-pattern.py) | _O(n)_ | _O(n)_ | Easy         || `KMP Algorithm` |
-468| [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) | [C++](./C++/validate-ip-address.cpp)  [Python](./Python/validate-ip-address.py) | _O(1)_ | _O(1)_ | Medium         | |
+6| [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) |  | _O(n)_ | _O(1)_        | Easy           ||
+8| [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) |  | _O(n)_ | _O(1)_ | Easy      ||
+14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) |  | _O(n * k)_   | _O(1)_  | Easy           ||
+28| [Implement strStr()](https://leetcode.com/problems/implement-strstr/) |  | _O(n + k)_   | _O(k)_  | Easy           || `KMP Algorithm`
+38| [Count and Say](https://leetcode.com/problems/count-and-say/) | | _O(n * 2^n)_  | _O(2^n)_        | Easy           ||
+43| [Multiply Strings](https://leetcode.com/problems/multiply-strings/) |  | _O(m * n)_ | _O(m + n)_  | Medium         ||
+58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |  | _O(n)_   | _O(1)_  | Easy           ||
+67| [Add Binary](https://leetcode.com/problems/add-binary/)    |  | _O(n)_          | _O(1)_          | Easy           ||
+68| [Text Justification](https://leetcode.com/problems/text-justification/) |  | _O(n)_ | _O(1)_      | Hard           ||
+125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |  | _O(n)_  | _O(1)_         | Easy           ||
+151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) |  | _O(n)_ | _O(1)_ | Medium         ||
+161| [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) |  | _O(m + n)_ | _O(1)_    | Medium         |📖 |
+165| [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) |  | _O(n)_ | _O(1)_ | Easy     ||
+186| [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | | _O(n)_ | _O(1)_ | Medium         | 📖 |
+214| [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) |  | _O(n)_ | _O(n)_ |  Hard || `KMP Algorithm` `Manacher's Algorithm`
+242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|  | _O(n)_       | _O(1)_         | Easy         | LintCode |
+271| [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |  | _O(n)_ | _O(1)_ | Medium         | 📖 |
+273| [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) |  | _O(logn)_ | _O(1)_ | Hard         | |
+306| [Addictive Number](https://leetcode.com/problems/additive-number/) |  | _O(n^3)_ | _O(n)_ | Medium         | |
+383| [Ransom Note](https://leetcode.com/problems/ransom-note/) |  | _O(n)_ | _O(1)_ | Easy         | EPI |
+405| [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |  | _O(n)_ | _O(1)_ | Easy         | |
+408| [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) |  | _O(n)_ | _O(1)_ | Easy         | 📖 |
+415| [Add Strings](https://leetcode.com/problems/add-strings/) |  | _O(n)_ | _O(1)_ | Easy         | |
+420| [Strong Password Checker](https://leetcode.com/problems/strong-password-checker/) |  | _O(n)_ | _O(1)_ | Hard         | |
+434| [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) |  | _O(n)_ | _O(1)_ | Easy         | |
+443| [String Compression](https://leetcode.com/problems/string-compression/) |  | _O(n)_ | _O(1)_ | Easy         | |
+459| [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) |  | _O(n)_ | _O(n)_ | Easy         || `KMP Algorithm` |
+468| [Validate IP Address](https://leetcode.com/problems/validate-ip-address/) |  | _O(1)_ | _O(1)_ | Medium         | |
 556| [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) |[C++](./C++/next-greater-element-iii.cpp)  [Python](./Python/next-greater-element-iii.py) | _O(1)_ | _O(1)_ | Medium         | |
 557| [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) |[C++](./C++/reverse-words-in-a-string-iii.cpp)  [Python](./Python/reverse-words-in-a-string-iii.py) | _O(n)_ | _O(1)_ | Easy         | |
 647| [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | [C++](./C++/palindromic-substrings.cpp) [Python](./Python/palindromic-substrings.py) | _O(n)_ | _O(n)_ |  Medium || `Manacher's Algorithm`
